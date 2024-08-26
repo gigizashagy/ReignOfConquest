@@ -5,4 +5,3 @@
 
 IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, ReignOfConquest, "ReignOfConquest" );
  
-// nekit31
